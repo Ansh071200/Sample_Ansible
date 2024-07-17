@@ -38,6 +38,7 @@ ansible-playbook ansible_playbook.yml
 ```
 
 6. **Expose the URL:**
+
    **-> Check the port number and the Service status**
 
 ``` bash
@@ -47,7 +48,7 @@ sudo cat /etc/apache2/ports.conf | grep Listen
    **->Change the inbound rules of the instance security group to the designated port on which the server is running.**
 
 
-7. **Open the browser and type your public ec2 DNS followed by the Port number.:**
+7. **Open the browser and type your public EC2 DNS followed by the Port number.:**
 
 --> http://your-ec2-public-dns:8080
 
