@@ -46,7 +46,7 @@ sudo systemctl status apache2
 sudo cat /etc/apache2/ports.conf | grep Listen
 ```
    **->Change the inbound rules of the instance security group to the designated port on which the server is running.**
-![Change the Inbound rules]([https://github.com/username/repository/raw/branch/path/to/image.png](https://github.com/Ansh071200/Sample_Ansible/blob/main/image_2024-07-17_192901543.png))
+![Change the Inbound rules](https://github.com/Ansh071200/Sample_Ansible/blob/main/image_2024-07-17_192901543.png)
    
 
 7. **Open the browser and type your public EC2 DNS followed by the Port number.:**
