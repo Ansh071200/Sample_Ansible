@@ -1,8 +1,9 @@
 # 🌟 Installing Ansible and Deploying a Playbook to a Web Server on EC2
 
+## Make sure you have the EC2 Instance configured.
+
 ## 🐧 Procedure to Install Ansible on Ubuntu
 
-## Make sure you have the EC2 Instance configured.
 
 1. **Update the apt package index:**
 
