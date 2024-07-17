@@ -34,7 +34,7 @@ cd Sample_Ansible
 5. **Run the Playbook:**
 
 ``` bash
-ansible-playbook ansible_playbook.yml
+ansible-playbook ansible_playbook.yaml
 ```
 
 6. **Check the status and Port Number:**
