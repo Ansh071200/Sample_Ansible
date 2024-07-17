@@ -48,7 +48,6 @@ sudo cat /etc/apache2/ports.conf | grep Listen
 
 7. **Open the browser and type your public ec2 DNS followed by the Port number.:**
 
---> http://<your-ec2-public-dns>:8080
+--> http://your-ec2-public-dns:8080
 
-[Link](http://localhost:8080)
 
