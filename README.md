@@ -28,7 +28,7 @@ ansible --version
 
 ``` bash
 git clone https://github.com/Ansh071200/Sample_Ansible.git
-cd  Sample_Ansible
+cd Sample_Ansible
 ```
 
 5. **Run the Playbook:**
